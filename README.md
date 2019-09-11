@@ -12,5 +12,3 @@ In this project, 250 mice were treated through a variety of drug regimes over th
 
 And final considerations:
 A written description of three observable trends based on the data.
-
-
