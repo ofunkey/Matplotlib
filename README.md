@@ -1,14 +1,31 @@
-# Matplotlib
+# The Power of Plots
 
-## The power of plot - Pymaceuticals Inc
+## Background
 
-In this project, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+## Pymaceuticals Inc
 
-### Tasks:
-* Create a scatter plot that shows how the tumor volume changes over time for each treatment.
-* Create a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
-* Create a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-* Create a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+![Laboratory](Images/Laboratory.jpg)
 
-### Final considerations:
-A written description of three observable trends based on the data.
+In this work, I am analyzing the pharmaceutical data ![data](Pymaceuticals/data) for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+
+Tasks include :
+
+* Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
+* Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+
+Finally:
+
+![Treatment1](Pymaceuticals/Images/Metastatic_Spread_During_Treatment.png)
+
+![Treatment2](Pymaceuticals/Images/Survival_During_Treatment.png)
+
+![Treatment3](Pymaceuticals/Images/Tumor Change Over 45 Day Treatment.png)
+
+![Treatment4](Pymaceuticals/Images/Tumor_Response_to_Treatment.png)
+
+* A written description of three observavable trends based on the data
+
+![observable_trends](Pymaceuticals/Images/observable_trends.png)
