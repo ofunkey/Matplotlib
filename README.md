@@ -28,4 +28,5 @@ Finally:
 
 * A written description of three observavable trends based on the data
 
-![observable_trends](https://github.com/ofunkey/Matplotlib/blob/masterPymaceuticals/Images/observable_trends.png)
+![observabletrends](https://github.com/ofunkey/Matplotlib/blob/master/Pymaceuticals/Images/observable_trends.png)
+
