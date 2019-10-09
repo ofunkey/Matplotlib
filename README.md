@@ -22,7 +22,7 @@ Finally:
 
 ![Treatment2](Pymaceuticals/Images/Survival_During_Treatment.png)
 
-![Treatment3](Pymaceuticals/Images/Tumor Change Over 45 Day Treatment.png)
+![Treatment3](Pymaceuticals/Images/Tumor_Change_Over_45_Day_Treatment.png)
 
 ![Treatment4](Pymaceuticals/Images/Tumor_Response_to_Treatment.png)
 
